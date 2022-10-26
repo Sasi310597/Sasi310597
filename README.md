@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sasi310597
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning AWS re/Start 
 - 💞️ I’m looking to collaborate on future cloud development projects
 - 📫 How to reach me - sasi310597@outlook.com
 
